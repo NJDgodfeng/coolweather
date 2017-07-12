@@ -9,4 +9,4 @@
         <mapping class="com.coolweather.android.db.County" />
     </list>
 
-</litepal>
+    </litepal>
